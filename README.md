@@ -1,2 +1,0 @@
-# FirstGitApp
-Первый GIT проект
